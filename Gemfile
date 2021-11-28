@@ -32,7 +32,6 @@ gem 'activestorage-validator'
 # authentication
 gem 'jwt'
 gem 'listen'
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 gem "mini_magick"
 gem 'dotenv-rails'
 
